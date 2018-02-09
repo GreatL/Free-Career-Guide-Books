@@ -26,6 +26,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * The Art of UNIX programming [[Download]](/book/The%20Art%20of%20UNIX%20programming.pdf)
 * The Clean Coder [[Download]](/book/The%20Clean%20Coder.pdf)
 * The Developer's Code - What Real Programmers Do [[Download]](/book/The%20Developer%27s%20Code%20-%20What%20Real%20Programmers%20Do.pdf)
+* The Elements of Programming Style [[Download]](/book/The%20Elements%20of%20Programming%20Style.pdf)
 * The Healthy Programmer - Get Fit, Feel Better, and Keep Coding [[Download]](/book/The%20Healthy%20Programmer%20-%20Get%20Fit%2C%20Feel%20Better%2C%20and%20Keep%20Coding.pdf)
 * The Passionate Programmer - Creating a Remarkable Career in Software Development [[Download]](/book/The%20Passionate%20Programmer%20-%20Creating%20a%20Remarkable%20Career%20in%20Software%20Development.pdf)
 * The Phoenix Project [[Download]](/book/The%20Phoenix%20Project.epub)
@@ -35,3 +36,5 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Write Great Code - Volume 2 - Thinking Low-Level, Writing High-Level [[Download]](/book/Write%20Great%20Code%20-%20Volume%202%20-%20Thinking%20Low-Level%2C%20Writing%20High-Level.pdf)
 * Write Portable Code - An Introduction to Developing Software for Multiple Platforms [[Download]](/book/Write%20Portable%20Code%20-%20An%20Introduction%20to%20Developing%20Software%20for%20Multiple%20Platforms.pdf)
 * Write Solid Code [[Download]](/book/Write%20Solid%20Code.pdf)
+* 人月神话 [[Download]](/book/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
+
