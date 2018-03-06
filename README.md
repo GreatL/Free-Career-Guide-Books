@@ -17,6 +17,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Code Complete - Second Edition [[Download]](/book/Code%20Complete%20-%20Second%20Edition.pdf)
 * Code Simplicity - Max Kanat-Alexander [[Download]](/book/Code%20Simplicity%20-%20Max%20Kanat-Alexander.epub)
 * Coder to Developer - Mike Gunderloy [[Download]](/book/Coder%20to%20Developer%20-%20Mike%20Gunderloy.pdf)
+* Coding in Style [[Download]](/book/Coding%20in%20Style.epub)
 * Dreaming in Code - Scott Rosenberg [[Download]](/book/Dreaming%20in%20Code%20-%20Scott%20Rosenberg.epub)
 * Effective Programming - Jeff Atwood [[Download]](/book/Effective%20Programming%20-%20Jeff%20Atwood.epub)
 * I. M. Wright's Hard Code - A Decade of Hard-Won Lessons from Microsoft - Second Edition [[Download]](/book/I.%20M.%20Wright%27s%20Hard%20Code%20-%20A%20Decade%20of%20Hard-Won%20Lessons%20from%20Microsoft%20-%20Second%20Edition.pdf)
