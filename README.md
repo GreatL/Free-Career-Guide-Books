@@ -25,6 +25,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Soft Skills [[Download]](/book/Soft%20Skills.pdf)
 * The Art of Readable Code [[Download]](/book/The%20Art%20of%20Readable%20Code.pdf)
 * The Art of UNIX programming [[Download]](/book/The%20Art%20of%20UNIX%20programming.pdf)
+* The Asshole Survival Guide [[Download]](/book/The%20Asshole%20Survival%20Guide.epub)
 * The Clean Coder [[Download]](/book/The%20Clean%20Coder.pdf)
 * The Developer's Code - What Real Programmers Do [[Download]](/book/The%20Developer%27s%20Code%20-%20What%20Real%20Programmers%20Do.pdf)
 * The Elements of Programming Style [[Download]](/book/The%20Elements%20of%20Programming%20Style.pdf)
